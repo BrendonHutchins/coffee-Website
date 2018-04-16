@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="chapter2html.xsl"?>
+<database>
+	<user>
+		<uid>22</uid>
+		<username>username1</username>
+		<passwd>password1</passwd>
+		<fname>fname1</fname>
+		<lname>lname1</lname>
+		<address>address1</address>
+		<contactNum>contact1</contactNum>
+		<fcpoints>227</fcpoints>
+		<cart/>
+		<expiry>0</expiry>
+	</user>
+
+	<user>
+		<uid>55</uid>
+		<username>username2</username>
+		<passwd>password2</passwd>
+		<fname>fname2</fname>
+		<lname>lname2</lname>
+		<address>address2</address>
+		<contactNum>contact2</contactNum>
+		<fcpoints>5</fcpoints>
+		<cart>
+		</cart>
+		<expiry>0</expiry>
+	</user>
+	<user>
+		<uid>56</uid>
+		<username>hutchy</username>
+		<passwd>hutchy</passwd>
+		<fname>brendon</fname>
+		<lname>hutchins</lname>
+		<address>Flinders</address>
+		<contactNum>223344</contactNum>
+		<fcpoints>0</fcpoints>
+		<cart>
+		<item>2</item><item1>3</item1><item>2</item><item1>3</item1></cart>
+		<expiry>0</expiry>
+	</user>
+
+<user><uid>56</uid><username>bobby</username><passwd>pass</passwd><fname>Bob</fname><lname>Smith</lname><address>bob@com</address><contactNum>12345</contactNum><fcpoints>0</fcpoints><cart><item1>Null</item1></cart><expiry>0</expiry></user></database>

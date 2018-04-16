@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<products title="ArtCafe Product List">
+  <product>
+    <uid>1</uid>
+    <name>Food item 1</name>
+    <description>This is food item number 1</description>
+    <samplephoto>./images/cake.jpg</samplephoto>
+    <availability>In stock: min delivery 20 minutes</availability>
+    <singleprice>$5</singleprice>
+    <bulkprice>$10</bulkprice>
+    <fcpoints>5</fcpoints>
+    <postage>$5</postage>
+  </product>
+
+  <product>
+    <uid>2</uid>
+    <name>Food item 2</name>
+    <description>This is food item number 2</description>
+    <samplephoto>./images/coffee.jpg</samplephoto>
+    <availability>In stock: min delivery 20 minutes</availability>
+    <singleprice>$5</singleprice>
+    <bulkprice>$10</bulkprice>
+    <fcpoints>10</fcpoints>
+    <postage>$5</postage>
+  </product>
+
+  <product>
+    <uid>3</uid>
+    <name>Food item 2</name>
+    <description>This is food item number 2</description>
+    <samplephoto>./images/apple.jpg</samplephoto>
+    <availability>In stock: min delivery 20 minutes</availability>
+    <singleprice>$5</singleprice>
+    <bulkprice>$10</bulkprice>
+    <fcpoints>15</fcpoints>
+    <postage>$5</postage>
+  </product>
+</products>
